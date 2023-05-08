@@ -1,0 +1,14 @@
+images/*
+!images/.gitkeep
+
+embeddings/*
+!embeddings/.gitkeep
+
+__pycache__
+
+resources/annoy/index.ann
+resources/annoy/person_name
+!resources/annoy/.gitkeep
+
+.DS_Store
+.vscode
